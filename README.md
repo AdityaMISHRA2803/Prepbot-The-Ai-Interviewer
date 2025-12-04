@@ -52,9 +52,8 @@ Make sure you have:
 - Firebase account
 - Vapi & Gemini API keys
 
-### Clone the Repo
+Live
 
-```bash
-git clone https://github.com/yourusername/prepbot.git
-cd prepbot
-npm install
+https://prepbot-delta.vercel.app/
+
+
